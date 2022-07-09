@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;justify-content:space-between;align-items:center;height:100vh}.App__container{width:15vw}.App__input-box{display:flex;justify-content:space-between;margin-bottom:10px}.App__input-text{font-size:20px}.App__input{width:50px;text-align:center}.Carousel{padding:10px;border:5px solid #add8e6;border-radius:20px}.Carousel__list{display:flex;padding:0;list-style:none;overflow:hidden;transition:all 1001ms}.Carousel__button-box{display:flex;justify-content:space-between}
+/*# sourceMappingURL=main.a547875b.chunk.css.map */
